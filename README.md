@@ -1,4 +1,4 @@
-Convert Bank Statement's PDF to CSV conveter.
+Convert Bank Statement's PDF to CSV.
 
 Support's only HDFC Bank statement.
 
